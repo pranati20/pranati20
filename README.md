@@ -2,7 +2,7 @@
 
 I'm Pranati, a final-year BTech Computer Science student specializing in Machine Learning and Full Stack Development. Welcome to my GitHub profile! 🚀
 
-🔭 I’m currently working on completing my final year project in Machine Learning.
+🔭 I’m currently working on developing a mobile app to streamline the process of booking and managing sport complexes.
 
 🌱 I’m currently learning advanced topics in Deep Learning.
 
